@@ -92,6 +92,10 @@ To use a group, connect with the group's login and password. Browsers and some a
 
 The full user guide (`GUIDE.md`, in Russian) is included in every archive.
 
+## With the support of
+
+Project Modjus, [their bot](https://t.me/ModJus_bot)
+
 ## License
 
 Proprietary. © 2026 Naguwal. All rights reserved. See `LICENSE` and `THIRD-PARTY-LICENSES.md` in the archive.
